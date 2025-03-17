@@ -1,9 +1,137 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
   <diagram name="第 1 页" id="ciwdwCEWbUxPt2BMNHtA">
-    <mxGraphModel dx="2442" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-243" value="Structured Workflow: Cyclocarya Ploidy Evolution &amp; Adaptation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="470" width="229" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-244" value="Literature Review&#xa;    Specimen Check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="41" y="590" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-245" value="Morphological &amp; Ecological&#xa;    Data Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="299" y="639" width="212" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-246" value="Field Survey&#xa;    Sample Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="706" width="189" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-247" value="E" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="100" y="903" width="69" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-248" value="Reference Genome Comparison&#xa;    Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="818" width="200" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-249" value="Phylogenetic Reconstruction&#xa;    Population Structure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="952" width="208" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-250" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="638" y="907" width="70" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-251" value="RNA-seq&#xa;    Differential Expression Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="561" y="1010" width="223" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-252" value="Comparative Transcriptomics&#xa;    Gene Interaction Network" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="834" y="889" width="246" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-253" value="Ecological Niche Modeling&#xa;    Historical Distribution" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="834" y="1029" width="245" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-254" value="Polyploid Evolutionary Mechanisms&#xa;    Adaptation Significance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="962" width="229" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-255" value="Resource Conservation&#xa;    Utilization Strategy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1409" y="971" width="222" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-256" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-244" target="5PXGPUt3Za7BA3dp6qOt-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="623" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-257" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.06;entryY=1;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-246" target="5PXGPUt3Za7BA3dp6qOt-245">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="739" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-258" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-247" target="5PXGPUt3Za7BA3dp6qOt-248">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-259" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-247" target="5PXGPUt3Za7BA3dp6qOt-249">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="274" y="994" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-260" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-249" target="5PXGPUt3Za7BA3dp6qOt-250">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-261" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-249" target="5PXGPUt3Za7BA3dp6qOt-251">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="1052" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.44;entryX=0;entryY=0.4;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-250" target="5PXGPUt3Za7BA3dp6qOt-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="809" y="921" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-263" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0.13;entryY=1;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-251" target="5PXGPUt3Za7BA3dp6qOt-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="809" y="999" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-264" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.55;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-250" target="5PXGPUt3Za7BA3dp6qOt-252">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="809" y="941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-265" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-251" target="5PXGPUt3Za7BA3dp6qOt-253">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="809" y="1062" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-266" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-252" target="5PXGPUt3Za7BA3dp6qOt-254">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-267" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.06;entryY=1;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-253" target="5PXGPUt3Za7BA3dp6qOt-254">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="1062" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-268" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-254" target="5PXGPUt3Za7BA3dp6qOt-255">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
