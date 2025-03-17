@@ -4,131 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-244" value="Literature Review&#xa;    Specimen Check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="41" y="590" width="188" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-245" value="Morphological &amp; Ecological&#xa;    Data Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="299" y="639" width="212" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-246" value="Field Survey&#xa;    Sample Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="40" y="706" width="189" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-248" value="Reference Genome Comparison&#xa;    Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="818" width="200" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-249" value="Phylogenetic Reconstruction&#xa;    Population Structure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="302" y="952" width="208" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-250" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="638" y="907" width="70" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-251" value="RNA-seq&#xa;    Differential Expression Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="561" y="1010" width="223" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-252" value="Comparative Transcriptomics&#xa;    Gene Interaction Network" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="834" y="889" width="246" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-253" value="Ecological Niche Modeling&#xa;    Historical Distribution" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="834" y="1029" width="245" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-254" value="Polyploid Evolutionary Mechanisms&#xa;    Adaptation Significance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="962" width="229" height="84" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-255" value="Resource Conservation&#xa;    Utilization Strategy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1409" y="971" width="222" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-256" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-244" target="5PXGPUt3Za7BA3dp6qOt-245">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="274" y="623" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-257" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.06;entryY=1;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-246" target="5PXGPUt3Za7BA3dp6qOt-245">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="274" y="739" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-260" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=0;entryX=-0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-249" target="5PXGPUt3Za7BA3dp6qOt-250">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="536" y="931" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-261" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-249" target="5PXGPUt3Za7BA3dp6qOt-251">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="536" y="1052" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.44;entryX=0;entryY=0.4;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-250" target="5PXGPUt3Za7BA3dp6qOt-252">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="809" y="921" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-263" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0;entryX=0.13;entryY=1;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-251" target="5PXGPUt3Za7BA3dp6qOt-252">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="809" y="999" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-264" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.55;entryX=0;entryY=0.6;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-250" target="5PXGPUt3Za7BA3dp6qOt-252">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="809" y="941" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-265" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-251" target="5PXGPUt3Za7BA3dp6qOt-253">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="809" y="1062" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-266" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.15;entryY=0;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-252" target="5PXGPUt3Za7BA3dp6qOt-254">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1105" y="931" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-267" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.06;entryY=1;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-253" target="5PXGPUt3Za7BA3dp6qOt-254">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1105" y="1062" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-268" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="5PXGPUt3Za7BA3dp6qOt-254" target="5PXGPUt3Za7BA3dp6qOt-255">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-269" value="Literature Review&#xa;Specimen Check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="1120" width="241" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-270" value="Morphological &amp; Ecological&#xa;Data Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="331" y="1178" width="257" height="66" as="geometry" />
+          <mxGeometry x="400" y="1139" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-271" value="Field Survey&#xa;Sample Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="54" y="1236" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-272" value="Ploidy Identification&#xa;(Flow Cytometry | Chromosome Counting)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="638" y="1361" width="259" height="84" as="geometry" />
+          <mxGeometry x="390" y="1240" width="259" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-273" value="ylogenetic Reconstruction&#xa;Population Structure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="331" y="1294" width="257" height="84" as="geometry" />
+          <mxGeometry x="1204.5" y="1130" width="257" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-274" value="Reference Genome Comparison&#xa;Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="345" y="1428" width="229" height="84" as="geometry" />
+          <mxGeometry x="944.5" y="970" width="229" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-275" value="Genome Sequencing&#xa;(PacBio+Hi-C) of&#xa;Yunnan Funing Diploid" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="333" y="1562" width="253" height="84" as="geometry" />
