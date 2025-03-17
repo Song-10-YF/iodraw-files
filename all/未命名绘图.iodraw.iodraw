@@ -16,14 +16,14 @@
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-272" value="Ploidy Identification&#xa;(Flow Cytometry | Chromosome Counting)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="1240" width="259" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="5PXGPUt3Za7BA3dp6qOt-273" value="ylogenetic Reconstruction&#xa;Population Structure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1204.5" y="1130" width="257" height="84" as="geometry" />
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-273" value="pylogenetic Reconstruction&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="970" width="257" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-274" value="Reference Genome Comparison&#xa;Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="944.5" y="970" width="229" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-275" value="Genome Sequencing&#xa;(PacBio+Hi-C) of&#xa;Yunnan Funing Diploid" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1562" width="253" height="84" as="geometry" />
+          <mxGeometry x="34" y="1378" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-276" value="SNP Calling | Selection Analysis&#xa;Functional Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="947" y="1284" width="224" height="84" as="geometry" />
@@ -138,6 +138,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-297" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
+          <mxGeometry x="1222" y="1186" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
