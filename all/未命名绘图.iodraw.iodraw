@@ -14,28 +14,28 @@
           <mxGeometry x="54" y="1236" width="213" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-272" value="Ploidy Identification&#xa;(Flow Cytometry | Chromosome Counting)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1240" width="259" height="84" as="geometry" />
+          <mxGeometry x="399" y="1227" width="259" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-273" value="pylogenetic Reconstruction&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1260" y="970" width="257" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-274" value="Reference Genome Comparison&#xa;Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="944.5" y="970" width="229" height="84" as="geometry" />
+          <mxGeometry x="750" y="1174" width="229" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-275" value="Genome Sequencing&#xa;(PacBio+Hi-C) of&#xa;Yunnan Funing Diploid" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="34" y="1378" width="253" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-276" value="SNP Calling | Selection Analysis&#xa;Functional Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="947" y="1284" width="224" height="84" as="geometry" />
+          <mxGeometry x="750" y="1302" width="224" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-277" value="RNA-seq&#xa;Differential Expression Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="951" y="1433" width="216" height="66" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-278" value="Comparative Transcriptomics&#xa;Gene Interaction Network" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1222" y="1294" width="224" height="84" as="geometry" />
+          <mxGeometry x="1495" y="1218" width="224" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-279" value="Ecological Niche Modelin&#xa;Historical Distribution" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1234" y="1434" width="198" height="84" as="geometry" />
+          <mxGeometry x="730" y="1000" width="198" height="84" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-280" value="Polyploid Evolutionary Mechanisms&#xa;Adaptation Significance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1495" y="1361" width="238" height="84" as="geometry" />
