@@ -1,0 +1,339 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
+  <diagram name="第 1 页" id="ciwdwCEWbUxPt2BMNHtA">
+    <mxGraphModel dx="1221" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-1" value="&lt;div&gt;1 野外样品收集&lt;/div&gt;&lt;div&gt;2 表型测量&lt;/div&gt;&lt;div&gt;3 生态数据采集&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="270" y="70" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-2" value="&lt;div&gt;文献及标本查阅&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-3" value="&lt;div&gt;1 细胞流式&lt;/div&gt;&lt;div&gt;2 核型分析&lt;/div&gt;&lt;div&gt;3 倍性鉴定&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="270" y="140" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-4" value="富宁青钱柳基因组测序" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-6" value="6. Evolutionary Mechanism &amp; Conservation Strategy" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="578" y="210" width="1142" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-7" value="Polyploid Evolutionary Mechanisms &amp; Adaptation Significance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
+          <mxGeometry x="177" y="46" width="229" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-8" value="Integrating genomic, transcriptomic, and ecological findings" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
+          <mxGeometry x="48" y="204" width="209" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-9" value="Understanding how polyploidization drives adaptation and speciation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
+          <mxGeometry x="307" y="204" width="247" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-10" value="Resource Conservation &amp; Utilization Strategy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
+          <mxGeometry x="735" y="54" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-11" value="Developing strategies for Cyclocarya species conservation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
+          <mxGeometry x="604" y="204" width="239" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-12" value="Exploring sustainable utilization of genetic resources" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
+          <mxGeometry x="893" y="204" width="212" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-6" source="5PXGPUt3Za7BA3dp6qOt-7" target="5PXGPUt3Za7BA3dp6qOt-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="153" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-6" source="5PXGPUt3Za7BA3dp6qOt-7" target="5PXGPUt3Za7BA3dp6qOt-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="431" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-6" source="5PXGPUt3Za7BA3dp6qOt-10" target="5PXGPUt3Za7BA3dp6qOt-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="724" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-6" source="5PXGPUt3Za7BA3dp6qOt-10" target="5PXGPUt3Za7BA3dp6qOt-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="999" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-17" value="5. Integrated Transcriptomics &amp; Ecological Analysis" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="544" y="578" width="1211" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-18" value="Comparative Transcriptomics &amp; Gene Interaction Network" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
+          <mxGeometry x="188" y="46" width="246" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-19" value="Analyzing differentially expressed gene networks" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
+          <mxGeometry x="44" y="213" width="240" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-20" value="Identifying key regulatory pathways related to polyploid adaptation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
+          <mxGeometry x="335" y="204" width="245" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-21" value="Ecological Niche Modeling &amp; Historical Distribution Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
+          <mxGeometry x="785" y="46" width="245" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-22" value="Modeling potential distributions of diploid and polyploid groups" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
+          <mxGeometry x="630" y="204" width="254" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-23" value="Estimating past and future habitat shifts due to climate changes" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
+          <mxGeometry x="933" y="204" width="251" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.19;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-17" source="5PXGPUt3Za7BA3dp6qOt-18" target="5PXGPUt3Za7BA3dp6qOt-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-17" source="5PXGPUt3Za7BA3dp6qOt-18" target="5PXGPUt3Za7BA3dp6qOt-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="457" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.18;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-17" source="5PXGPUt3Za7BA3dp6qOt-21" target="5PXGPUt3Za7BA3dp6qOt-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="757" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-17" source="5PXGPUt3Za7BA3dp6qOt-21" target="5PXGPUt3Za7BA3dp6qOt-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1059" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-28" value="4. Functional Analysis &amp; SNP Selection" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="549" y="945" width="1201" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-29" value="SNP Calling | Selection Analysis | Functional Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
+          <mxGeometry x="206" y="46" width="224" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-30" value="Identifying SNPs and performing selective sweep analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
+          <mxGeometry x="43" y="204" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-31" value="Annotating genes under selection pressure" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
+          <mxGeometry x="351" y="213" width="230" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-32" value="RNA-seq | Differential Expression Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
+          <mxGeometry x="794" y="54" width="220" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-33" value="Conducting transcriptome sequencing to detect gene expression differences" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
+          <mxGeometry x="630" y="204" width="250" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-34" value="Identifying differentially expressed genes between diploids and polyploids" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
+          <mxGeometry x="931" y="204" width="244" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-28" source="5PXGPUt3Za7BA3dp6qOt-29" target="5PXGPUt3Za7BA3dp6qOt-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="172" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-28" source="5PXGPUt3Za7BA3dp6qOt-29" target="5PXGPUt3Za7BA3dp6qOt-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="466" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-28" source="5PXGPUt3Za7BA3dp6qOt-32" target="5PXGPUt3Za7BA3dp6qOt-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="756" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-28" source="5PXGPUt3Za7BA3dp6qOt-32" target="5PXGPUt3Za7BA3dp6qOt-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1053" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-39" value="3. Comparative Genomics &amp; Population Genetics" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="552" y="1313" width="1195" height="353" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-40" value="Reference Genome Comparison &amp; Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
+          <mxGeometry x="212" y="54" width="200" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-41" value="Performing genome assembly, annotation, and comparison" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
+          <mxGeometry x="43" y="231" width="248" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-42" value="Detecting structural variations such as duplications, inversions, and deletions" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
+          <mxGeometry x="341" y="222" width="234" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-43" value="Phylogenetic Reconstruction &amp; Population Structure Analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
+          <mxGeometry x="789" y="46" width="219" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-44" value="Conducting whole-genome phylogenetic tree reconstruction" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
+          <mxGeometry x="625" y="231" width="250" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-45" value="Analyzing population genetic structure to infer historical relationships" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
+          <mxGeometry x="925" y="231" width="242" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-39" source="5PXGPUt3Za7BA3dp6qOt-40" target="5PXGPUt3Za7BA3dp6qOt-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-39" source="5PXGPUt3Za7BA3dp6qOt-40" target="5PXGPUt3Za7BA3dp6qOt-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.11;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-39" source="5PXGPUt3Za7BA3dp6qOt-43" target="5PXGPUt3Za7BA3dp6qOt-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.89;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-39" source="5PXGPUt3Za7BA3dp6qOt-43" target="5PXGPUt3Za7BA3dp6qOt-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1046" y="184" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-50" value="2. Ploidy Identification &amp; Morphological Data Collection" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1716" width="1179" height="335" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-51" value="Morphological &amp; Ecological Data Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
+          <mxGeometry x="199" y="54" width="247" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-52" value="Measuring leaf shape, size, fruit morphology, and reproductive structures" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
+          <mxGeometry x="43" y="213" width="254" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-53" value="Analyzing ecological adaptability characteristics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
+          <mxGeometry x="347" y="222" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-54" value="Ploidy Identification (Flow Cytometry | Chromosome Counting)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
+          <mxGeometry x="770" y="46" width="250" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-55" value="Verifying ploidy level differences between diploid and polyploid samples" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
+          <mxGeometry x="653" y="204" width="211" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-56" value="Confirming chromosome numbers and flow cytometry patterns" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
+          <mxGeometry x="914" y="213" width="233" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-50" source="5PXGPUt3Za7BA3dp6qOt-51" target="5PXGPUt3Za7BA3dp6qOt-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-50" source="5PXGPUt3Za7BA3dp6qOt-51" target="5PXGPUt3Za7BA3dp6qOt-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="475" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.21;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-50" source="5PXGPUt3Za7BA3dp6qOt-54" target="5PXGPUt3Za7BA3dp6qOt-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-50" source="5PXGPUt3Za7BA3dp6qOt-54" target="5PXGPUt3Za7BA3dp6qOt-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1031" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-61" value="1. Data Collection Phase" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2102" width="1759" height="318" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-62" value="Literature Review &amp; Specimen Check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="196" y="54" width="240" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-63" value="Reviewing previous studies on Cyclocarya species" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="43" y="213" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-64" value="Checking existing herbarium specimens for reference" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="345" y="204" width="238" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-65" value="Field Survey &amp; Sample Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="763" y="54" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-66" value="Conducting fieldwork to collect samples across different habitats" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="633" y="204" width="232" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-67" value="Recording ecological and environmental factors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="915" y="213" width="238" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-68" value="Genome Sequencing (PacBio+Hi-C) of Yunnan Funing Diploid" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="1355" y="46" width="233" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-69" value="Performing whole-genome sequencing on Yunnan Funing diploid samples" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="1203" y="204" width="248" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-70" value="Generating high-quality reference genome data" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
+          <mxGeometry x="1501" y="213" width="230" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-61" source="5PXGPUt3Za7BA3dp6qOt-62" target="5PXGPUt3Za7BA3dp6qOt-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="169" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-61" source="5PXGPUt3Za7BA3dp6qOt-62" target="5PXGPUt3Za7BA3dp6qOt-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="464" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-73" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-61" source="5PXGPUt3Za7BA3dp6qOt-65" target="5PXGPUt3Za7BA3dp6qOt-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="749" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-74" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-61" source="5PXGPUt3Za7BA3dp6qOt-65" target="5PXGPUt3Za7BA3dp6qOt-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1034" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-61" source="5PXGPUt3Za7BA3dp6qOt-68" target="5PXGPUt3Za7BA3dp6qOt-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1327" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5PXGPUt3Za7BA3dp6qOt-76" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="5PXGPUt3Za7BA3dp6qOt-61" source="5PXGPUt3Za7BA3dp6qOt-68" target="5PXGPUt3Za7BA3dp6qOt-70">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1616" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
