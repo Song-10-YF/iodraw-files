@@ -17,7 +17,7 @@
           <mxGeometry x="450" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-6" value="6. Evolutionary Mechanism &amp; Conservation Strategy" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="578" y="210" width="1142" height="318" as="geometry" />
+          <mxGeometry x="768" y="240" width="1142" height="318" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-7" value="Polyploid Evolutionary Mechanisms &amp; Adaptation Significance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-6">
           <mxGeometry x="177" y="46" width="229" height="84" as="geometry" />
@@ -66,7 +66,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-17" value="5. Integrated Transcriptomics &amp; Ecological Analysis" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="544" y="578" width="1211" height="318" as="geometry" />
+          <mxGeometry x="734" y="608" width="1211" height="318" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-18" value="Comparative Transcriptomics &amp; Gene Interaction Network" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-17">
           <mxGeometry x="188" y="46" width="246" height="84" as="geometry" />
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-28" value="4. Functional Analysis &amp; SNP Selection" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="549" y="945" width="1201" height="318" as="geometry" />
+          <mxGeometry x="739" y="975" width="1201" height="318" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-29" value="SNP Calling | Selection Analysis | Functional Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-28">
           <mxGeometry x="206" y="46" width="224" height="84" as="geometry" />
@@ -164,7 +164,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-39" value="3. Comparative Genomics &amp; Population Genetics" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="552" y="1313" width="1195" height="353" as="geometry" />
+          <mxGeometry x="742" y="1343" width="1195" height="353" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-40" value="Reference Genome Comparison &amp; Structural Variation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-39">
           <mxGeometry x="212" y="54" width="200" height="84" as="geometry" />
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-50" value="2. Ploidy Identification &amp; Morphological Data Collection" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1716" width="1179" height="335" as="geometry" />
+          <mxGeometry x="750" y="1746" width="1179" height="335" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-51" value="Morphological &amp; Ecological Data Collection" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-50">
           <mxGeometry x="199" y="54" width="247" height="66" as="geometry" />
@@ -262,7 +262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-61" value="1. Data Collection Phase" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2102" width="1759" height="318" as="geometry" />
+          <mxGeometry x="460" y="2132" width="1759" height="318" as="geometry" />
         </mxCell>
         <mxCell id="5PXGPUt3Za7BA3dp6qOt-62" value="Literature Review &amp; Specimen Check" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="5PXGPUt3Za7BA3dp6qOt-61">
           <mxGeometry x="196" y="54" width="240" height="66" as="geometry" />
